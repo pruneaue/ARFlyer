@@ -31,7 +31,7 @@ public class DragAndRotate : MonoBehaviour
  
                 if (screenTouch.phase == TouchPhase.Ended)
                 {
-                    isActive = false;
+                    //isActive = false;
                 }
             }
         }
